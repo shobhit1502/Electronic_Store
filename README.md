@@ -1,7 +1,7 @@
 
 # Electronic Store Ecommerce Backend Application
 
-This is a major project of this course. **ElectronicStore** is a commerce-based project. In this project, I have created complete REST APIs for the Electronic store.It contains diffrent  modules of the electronic store like User Module, Category Module, Product Module, Cart Module, Order Module,  API Documentation Module, and Deployment using Docker on a cloud module, etc.
+ **ElectronicStore** is a commerce-based project. In this project, I have created complete REST APIs for the Electronic store.It contains diffrent  modules of the electronic store like User Module, Category Module, Product Module, Cart Module, Order Module,  API Documentation Module, and Deployment using Docker on a cloud module, etc.
 
 
 ## Important Links
