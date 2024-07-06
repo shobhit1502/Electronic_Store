@@ -1,12 +1,6 @@
 
 # Electronic Store Ecommerce Backend Application
 
-Welcome to the YouTube + Twitter backend project! This innovative system combines the core functionalities of YouTube with the engaging tweet features of Twitter, creating a robust platform for content viewing and posting tweets. Below, you'll find an overview of the features and technologies used in this project.
-
-
-
-# Electronic Store
-
 This is a major project of this course. **ElectronicStore** is a commerce-based project. In this project, I have created complete REST APIs for the Electronic store.It contains diffrent  modules of the electronic store like User Module, Category Module, Product Module, Cart Module, Order Module,  API Documentation Module, and Deployment using Docker on a cloud module, etc.
 
 
